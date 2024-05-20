@@ -20,4 +20,4 @@ This is task management system includes user authentication via JWT tokens, CRUD
 - Postman
 
 ### Documentation
-All API documentation can be found here: 
+All API documentation can be found here: https://documenter.getpostman.com/view/33523574/2sA3QmEupP
